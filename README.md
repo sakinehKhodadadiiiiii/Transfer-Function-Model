@@ -1,0 +1,1 @@
+Let's create a more complex object-oriented class representing a Transfer Function model commonly used in control theory. Transfer functions describe the relationship between the input and output of a system in the frequency domain.
